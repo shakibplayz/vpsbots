@@ -38,8 +38,8 @@ physical server, all from one bot.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/atifqmi-max/vpsbot-v4.git
-cd vpsbot-v4
+git clone https://github.com/shakibplayz/vpsbots-v4.git
+cd vpsbots-v4
 ```
 
 ### 2. Install Docker
