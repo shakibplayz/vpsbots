@@ -1888,7 +1888,7 @@ async def cmd_node_config(ix: discord.Interaction, name: str):
 
     install_cmd = (
         "curl -o node_agent.py "
-        "https://raw.githubusercontent.com/atifqmi-max/vpsbot-v4/main/node_agent.py "
+        "https://raw.githubusercontent.com/shakibplayz/vpsbots/main/node_agent.py "
         "&& python3 node_agent.py"
     )
     connect_str = f"{row['node_id']}|{row['token']}|{SERVER_IP}|{AGENT_PORT}"
